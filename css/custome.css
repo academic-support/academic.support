@@ -1,0 +1,14 @@
+/*
+  mavi: #244682
+  turuncu: #F1885C
+ */
+header .navbar-default .navbar-nav li a {
+  color: #244682;
+}
+
+header .navbar-default .navbar-nav li a:focus {
+  color: #F1885C;
+}
+header .navbar-default .navbar-nav li a:hover {
+  color: #F1885C;
+}
